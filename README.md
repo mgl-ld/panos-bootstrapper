@@ -1,7 +1,7 @@
 # PAN-OS Bootstrapper
 
 PAN-OS bootstrapper is a tool to quickly build all required files to bootstrap
-a Pala Alto Networks device. This usually requires a customized bootstrap.xml, init-cfg.txt, and 
+a Palo Alto Networks device. This usually requires a customized bootstrap.xml, init-cfg.txt, and 
 a license file. The output will be an archive package, either ISO or ZIP, with all required files fully compiled
 from the supplied templates and input variables. 
 
